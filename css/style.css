@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(177, 238, 228);
+}
+
+header {
+    background-color: rgb(130, 145, 1);
+    border: 5px solid rgb(130, 145, 1);
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    color: aqua;
+}
+
+.slider {
+    height: 600px;
+    text-align: center;
+    color: aqua;
+    overflow: hidden;
+}
+
+.nav {
+    height: 100%;
+    width: 20%;
+    background-color: rgb(71, 6, 73);
+    float: left;
+}
+
+.content {
+    height: 100%;
+    width: 80%;
+    float: right;
+}
+
+.description {
+    height: 80%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.article {
+    background-color: rgb(5, 36, 122);
+    height: 100%;
+    width: 75%;
+    float: left;
+}
+
+.adds {
+    background-color: rgb(2, 34, 2);
+    height: 100%;
+    width: 25%;
+    float: right;
+}
+
+footer {
+    height: 20%;
+    width: 100%;
+    background-color: rgb(207, 10, 10);
+    border: 5px solid rgb(207, 10, 10);
+}
